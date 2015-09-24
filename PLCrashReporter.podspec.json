@@ -4,7 +4,7 @@
   "homepage": "https://www.plcrashreporter.org",
   "license": {
     "type": "MIT",
-    "file": "LICENSE.txt"
+    "file": "LICENSE"
   },
   "authors": {
     "Plausible Labs Cooperative, Inc.": "contact@plausible.coop"
